@@ -1,1 +1,1 @@
-FROM ghcr.io/renovatebot/renovate:36.72.0
+FROM ghcr.io/renovatebot/renovate:36.72.2
